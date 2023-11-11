@@ -1,6 +1,6 @@
 ## Plexus
 
-This repository contains the code used to perform experiments for our [geo-distributed join approximation research.](https://ieeexplore.ieee.org/document/9820684) If you find this code useful, feel free to cite our releated research.
+This repository contains the code used to perform experiments for our [geo-distributed join approximation research.](https://dl.acm.org/doi/10.1145/3620678.3624643) If you find this code useful, feel free to cite our releated research.
 
 ```
 @inproceedings{10.1145/3620678.3624643,
